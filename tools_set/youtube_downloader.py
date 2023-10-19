@@ -6,10 +6,12 @@ import os
 # Run the code and when asked paste or tyoe the Youtube Video URL ex.: https://www.youtube.com/watch?v=IOqxarVWKRs&pp=ygUUdGhlIHBpcmF0ZSBi0LB5IHNvbmc%3D
 # The Video will be download to the Download folder on your system
 
+# Get video url
 yt_url = input("Enter the YouTube video URL: ")
 
 video_to_download = YouTube(yt_url)
 
+# Get video title
 title = title = video_to_download.title
 
 
