@@ -14,7 +14,6 @@ video_to_download = YouTube(yt_url)
 # Get video title
 title = title = video_to_download.title
 
-
 # Get the stream with the highest resolution
 stream = video_to_download.streams.get_highest_resolution()
 
