@@ -1,0 +1,106 @@
+{
+  "155": {
+    "title": "The Dark Knight",
+    "rating": 8.523,
+    "language": "en",
+    "popularity": 48.3879,
+    "release_date": "2008-07-16",
+    "vote_count": 34471
+  },
+  "244786": {
+    "title": "Whiplash",
+    "rating": 8.4,
+    "language": "en",
+    "popularity": 14.2,
+    "release_date": "2014-10-10",
+    "vote_count": 15943
+  },
+  "98": {
+    "title": "Gladiator",
+    "rating": 8.22,
+    "language": "en",
+    "popularity": 15.3685,
+    "release_date": "2000-05-04",
+    "vote_count": 20090
+  },
+  "50014": {
+    "title": "The Help",
+    "rating": 8.2,
+    "language": "en",
+    "popularity": 12.1737,
+    "release_date": "2011-08-09",
+    "vote_count": 8701
+  },
+  "77": {
+    "title": "Memento",
+    "rating": 8.178,
+    "language": "en",
+    "popularity": 10.647,
+    "release_date": "2000-10-11",
+    "vote_count": 15573
+  },
+  "406997": {
+    "title": "Wonder",
+    "rating": 8.113,
+    "language": "en",
+    "popularity": 4.8482,
+    "release_date": "2017-11-13",
+    "vote_count": 8080
+  },
+  "398818": {
+    "title": "Call Me by Your Name",
+    "rating": 8.107,
+    "language": "en",
+    "popularity": 9.3225,
+    "release_date": "2017-07-28",
+    "vote_count": 12440
+  },
+  "600354": {
+    "title": "The Father",
+    "rating": 8.104,
+    "language": "en",
+    "popularity": 5.569,
+    "release_date": "2020-12-23",
+    "vote_count": 3417
+  },
+  "7345": {
+    "title": "There Will Be Blood",
+    "rating": 8.075,
+    "language": "en",
+    "popularity": 10.7836,
+    "release_date": "2007-12-26",
+    "vote_count": 7004
+  },
+  "522518": {
+    "title": "A Dog's Journey",
+    "rating": 8.053,
+    "language": "en",
+    "popularity": 4.5163,
+    "release_date": "2019-05-03",
+    "vote_count": 1573
+  },
+  "641": {
+    "title": "Requiem for a Dream",
+    "rating": 8.015,
+    "language": "en",
+    "popularity": 4.9448,
+    "release_date": "2000-10-06",
+    "vote_count": 10502
+  },
+  "120467": {
+    "title": "The Grand Budapest Hotel",
+    "rating": 8.0,
+    "language": "en",
+    "popularity": 7.6488,
+    "release_date": "2014-02-26",
+    "vote_count": 15432
+  },
+  "43949": {
+    "title": "Flipped",
+    "rating": 8.0,
+    "language": "en",
+    "popularity": 4.1855,
+    "release_date": "2010-08-06",
+    "vote_count": 3185
+  }
+}
